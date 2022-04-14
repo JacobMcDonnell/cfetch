@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cfetch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cfetch_jar</output-path>
+    <root id="archive" name="cfetch.jar">
+      <element id="module-output" name="cfetch" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/json-java.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
